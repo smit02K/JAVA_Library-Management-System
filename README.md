@@ -87,9 +87,7 @@ The presented user interface (UI) demonstrates the interaction with this Library
 
 The Library Management System is a basic implementation of a library management application following the MVC architectural pattern. It provides essential functionality for managing books in a library. It can be expanded and improved to meet the specific requirements of a real-world library management system.
 
-Author: [Smit Kalathiya]
-
-![Library Management System](link-to-image-if-available.png)
+Author: Smit Kalathiya
 
 ## Video Demo
 
@@ -97,6 +95,5 @@ https://github.com/smit02K/JAVA_Library-Management-System/assets/63186967/7d95bd
 
 
 
-[![Watch the Video Demo](link-to-video-thumbnail.png)](link-to-video)
 
 
