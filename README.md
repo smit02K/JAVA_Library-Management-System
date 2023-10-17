@@ -37,11 +37,11 @@ The presented user interface (UI) demonstrates the interaction with this Library
 
 3. **Main Menu:** After library details are entered, the main menu is displayed. The user can select various operations from this menu, such as adding a book, removing a book, updating a book's price, searching for a book, listing all books, or exiting the system. The user inputs their choice by entering a numeric value.
 
-   ![Figure 2: Main Menu]([link-to-image-2.png](https://github.com/smit02K/JAVA_Library-Management-System/assets/63186967/8f19c622-6482-4ce3-b91a-ddf3f2110996))
+   ![Figure 2: Main Menu](https://github.com/smit02K/JAVA_Library-Management-System/assets/63186967/8f19c622-6482-4ce3-b91a-ddf3f2110996)
 
 4. **Add Book Operation:** If the user chooses to add a book, the UI provides a form-like interface to input the book's details, including title, author, price, and publication. Once entered, the book is added to the library.
 
-   ![Figure 3: Add Book Operation]([link-to-image-3.png](https://github.com/smit02K/JAVA_Library-Management-System/assets/63186967/a2c72cf8-9d37-45c3-9eb3-853b3ec07cca))
+   ![Figure 3: Add Book Operation](https://github.com/smit02K/JAVA_Library-Management-System/assets/63186967/a2c72cf8-9d37-45c3-9eb3-853b3ec07cca)
 
 5. **Remove Book Operation:** When the user selects the option to remove a book, they are prompted to enter the title of the book to be removed. The system then removes the book if it exists in the library and confirms its removal.
 
@@ -50,19 +50,19 @@ The presented user interface (UI) demonstrates the interaction with this Library
 
 6. **Update Book Price Operation:** To update a book's price, the user provides the title of the book they wish to update and the new price. The UI then informs the user of the successful price update.
 
-   ![Figure 5: Update Book Price Operation]([link-to-image-5.png](https://github.com/smit02K/JAVA_Library-Management-System/assets/63186967/22dec4d3-8603-409f-9196-13f3309e38f4))
+   ![Figure 5: Update Book Price Operation](https://github.com/smit02K/JAVA_Library-Management-System/assets/63186967/22dec4d3-8603-409f-9196-13f3309e38f4)
 
 7. **Search Book Operation:** The user can search for a book by entering its title. If found, the UI displays the book's details.
 
-   ![Figure 6: Search Book Operation]([link-to-image-6.png](https://github.com/smit02K/JAVA_Library-Management-System/assets/63186967/277c1c4c-8028-4554-b247-28013f440c58))
+   ![Figure 6: Search Book Operation](https://github.com/smit02K/JAVA_Library-Management-System/assets/63186967/277c1c4c-8028-4554-b247-28013f440c58)
 
 8. **List All Books Operation:** Choosing this option lists all the books in the library along with their details.
 
-   ![Figure 7: List All Books Operation]([link-to-image-7.png](https://github.com/smit02K/JAVA_Library-Management-System/assets/63186967/4ec6e8e1-851c-467e-b606-de02e14fbec1))
+   ![Figure 7: List All Books Operation](https://github.com/smit02K/JAVA_Library-Management-System/assets/63186967/4ec6e8e1-851c-467e-b606-de02e14fbec1)
 
 9. **Exiting the System:** Finally, the user can choose to exit the system, which closes the program and displays an exit message.
 
-   ![Figure 8: Exiting the System]([link-to-image-8.png](https://github.com/smit02K/JAVA_Library-Management-System/assets/63186967/1c075474-b63d-4301-bb5d-96cc369b4c6a))
+   ![Figure 8: Exiting the System](https://github.com/smit02K/JAVA_Library-Management-System/assets/63186967/1c075474-b63d-4301-bb5d-96cc369b4c6a)
 
 ## Project Execution
 
