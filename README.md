@@ -1,9 +1,6 @@
-# JAVA_Library-Management-System
-This Java project is a simple Library Management System (LMS) that follows the MVC (Model-View-Controller) architectural pattern. The project allows users to manage books in a library by  performing operations like adding, removing, updating, and searching for books. 
-
 # Library Management System
 
-This Java project is a simple Library Management System (LMS) that follows the MVC (Model-View-Controller) architectural pattern. The project allows users to manage books in a library by performing operations like adding, removing, updating, and searching for books. 
+This Java project is a simple Library Management System (LMS) that follows the MVC (Model-View-Controller) architectural pattern. The project allows users to manage books in a library by performing operations like adding, removing, updating, and searching for books.
 
 ## Project Overview
 
@@ -32,19 +29,35 @@ The presented user interface (UI) demonstrates the interaction with this Library
 
 1. **Welcome Screen:** The UI starts with a welcome message, prompting the user to input the name of the library, its address, and pin code. This sets up the library's details.
 
+   ![Figure 1: Welcome Screen](link-to-image-1.png)
+
 2. **Main Menu:** After library details are entered, the main menu is displayed. The user can select various operations from this menu, such as adding a book, removing a book, updating a book's price, searching for a book, listing all books, or exiting the system. The user inputs their choice by entering a numeric value.
+
+   ![Figure 2: Main Menu](link-to-image-2.png)
 
 3. **Add Book Operation:** If the user chooses to add a book, the UI provides a form-like interface to input the book's details, including title, author, price, and publication. Once entered, the book is added to the library.
 
+   ![Figure 3: Add Book Operation](link-to-image-3.png)
+
 4. **Remove Book Operation:** When the user selects the option to remove a book, they are prompted to enter the title of the book to be removed. The system then removes the book if it exists in the library and confirms its removal.
+
+   ![Figure 4: Remove Book Operation](link-to-image-4.png)
 
 5. **Update Book Price Operation:** To update a book's price, the user provides the title of the book they wish to update and the new price. The UI then informs the user of the successful price update.
 
+   ![Figure 5: Update Book Price Operation](link-to-image-5.png)
+
 6. **Search Book Operation:** The user can search for a book by entering its title. If found, the UI displays the book's details.
+
+   ![Figure 6: Search Book Operation](link-to-image-6.png)
 
 7. **List All Books Operation:** Choosing this option lists all the books in the library along with their details.
 
+   ![Figure 7: List All Books Operation](link-to-image-7.png)
+
 8. **Exiting the System:** Finally, the user can choose to exit the system, which closes the program and displays an exit message.
+
+   ![Figure 8: Exiting the System](link-to-image-8.png)
 
 ## Project Execution
 
@@ -69,11 +82,11 @@ The presented user interface (UI) demonstrates the interaction with this Library
 
 The Library Management System is a basic implementation of a library management application following the MVC architectural pattern. It provides essential functionality for managing books in a library. It can be expanded and improved to meet the specific requirements of a real-world library management system.
 
-This report summarizes the key components and functionality of this Java project. It's a good starting point for a simple library management system and can serve as a foundation for building more complex and feature-rich systems.
-
-Author: [Your Name]
+Author: [Smit Kalathiya]
 
 ![Library Management System](link-to-image-if-available.png)
-```
 
-Replace `[Your Name]` and `[link-to-image-if-available.png]` with your name and a link to an image if you want to include one. Then, you can copy and paste this content into your GitHub repository's README.md file.
+## Video Demo
+
+[![Watch the Video Demo](link-to-video-thumbnail.png)](link-to-video)
+
