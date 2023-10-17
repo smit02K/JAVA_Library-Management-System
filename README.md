@@ -12,6 +12,8 @@ The project is organized into three main packages: `model`, `view`, and `control
 
 ![Fig. 1.1 Project Structur](https://github.com/smit02K/JAVA_Library-Management-System/assets/63186967/dd653eb5-abd7-4937-9368-c3159666e7e5)
 
+
+
 ### Controller Package (`edu.qsp.lms.controller`)
 
 - **LibraryController.java:** This class serves as the controller in the MVC pattern. It contains methods for adding books, retrieving all books, searching for books, removing books by name, and updating book prices. It interacts with the model and view components to perform these operations.
