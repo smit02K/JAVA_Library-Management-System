@@ -82,7 +82,7 @@ The presented user interface (UI) demonstrates the interaction with this Library
 
 The Library Management System is a basic implementation of a library management application following the MVC architectural pattern. It provides essential functionality for managing books in a library. It can be expanded and improved to meet the specific requirements of a real-world library management system.
 
-Author: [Smit Kalathiya]
+Author: [Your Name]
 
 ![Library Management System](link-to-image-if-available.png)
 
@@ -90,3 +90,6 @@ Author: [Smit Kalathiya]
 
 [![Watch the Video Demo](link-to-video-thumbnail.png)](link-to-video)
 
+```
+
+Replace `[Your Name]`, `[link-to-image-1.png]`, `[link-to-image-2.png]`, and so on with the appropriate information and file paths. Also, replace `[link-to-video-thumbnail.png]` and `[link-to-video]` with the thumbnail and URL for your video demo.
