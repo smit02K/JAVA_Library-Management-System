@@ -29,7 +29,7 @@ The presented user interface (UI) demonstrates the interaction with this Library
 
 1. **Welcome Screen:** The UI starts with a welcome message, prompting the user to input the name of the library, its address, and pin code. This sets up the library's details.
 
-   ![Figure 1: Welcome Screen](link-to-image-1.png)
+   ![Figure 1: Welcome Screen]()
 
 2. **Main Menu:** After library details are entered, the main menu is displayed. The user can select various operations from this menu, such as adding a book, removing a book, updating a book's price, searching for a book, listing all books, or exiting the system. The user inputs their choice by entering a numeric value.
 
@@ -82,7 +82,7 @@ The presented user interface (UI) demonstrates the interaction with this Library
 
 The Library Management System is a basic implementation of a library management application following the MVC architectural pattern. It provides essential functionality for managing books in a library. It can be expanded and improved to meet the specific requirements of a real-world library management system.
 
-Author: [Your Name]
+Author: [Smit Kalathiya]
 
 ![Library Management System](link-to-image-if-available.png)
 
